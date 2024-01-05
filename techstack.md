@@ -114,7 +114,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/gradio](https://github.com/jadenblack/gradio)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|159<br/>Tools used|12/14/23 <br/>Report generated|
+|161<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -595,9 +595,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (104)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (106)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (80)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (81)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -680,10 +680,11 @@ Full tech stack [here](/techstack.md)
 |[urllib3](https://pypi.org/project/urllib3)|v1.26.10|07/19/22|Freddy Boulton |MIT|[CVE-2023-45803](https://github.com/advisories/GHSA-g4mx-q9vg-27p4) (Moderate)<br/>[CVE-2023-43804](https://github.com/advisories/GHSA-v845-jxx5-vc9f) (Moderate)|
 |[uvicorn](https://pypi.org/project/uvicorn)|v0.14.0|05/07/23|Abubakar Abid |BSD-3-Clause|N/A|
 |[wcwidth](https://pypi.org/project/wcwidth)|v0.2.5|01/24/22|Ömer Faruk Özdemir |MIT|N/A|
+|[websockets](https://pypi.org/project/websockets)|v10.0|07/13/23|Abubakar Abid |BSD-3-Clause|N/A|
 |[wget](https://pypi.org/project/wget)|N/A|10/14/22|Ali Abdalla |Unlicense|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (24)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (25)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -698,6 +699,7 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v6.2.1|11/02/23|pngwn |BSD-2-Clause|N/A|
 |[bufferutil](https://www.npmjs.com/bufferutil)|v4.0.7|05/12/23|pngwn |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.3|10/31/23|pngwn |MIT|N/A|
+|[katex](https://www.npmjs.com/katex)|v0.16.7|08/21/23|Abubakar Abid |MIT|N/A|
 |[marked](https://www.npmjs.com/marked)|v7.0.0|08/23/23|pngwn |MIT|N/A|
 |[mime-types](https://www.npmjs.com/mime-types)|v2.1.34|06/22/23|renovate[bot] |MIT|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|06/07/22|pngwn |MIT|N/A|
