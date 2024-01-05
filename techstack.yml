@@ -1,11 +1,12 @@
 repo_name: jadenblack/gradio
 report_id: d8376089762ff9a85d924b9703f92777
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T17:26:08+00:00'
+timestamp: '2024-01-05T08:23:28+00:00'
 requested_by: pngwn
 provider: github
 branch: main
-detected_tools_count: 159
+detected_tools_count: 161
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jadenblack/gradio
   detection_source: Repo Metadata
 - name: CoffeeScript
   description: A little language that compiles into JavaScript
@@ -39,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jadenblack/gradio
   detection_source: Repo Metadata
 - name: Jinja
   description: Full featured template engine for Python
@@ -62,6 +65,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1175/pug.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/preview/package.json
   detection_source: js/preview/package.json
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
@@ -74,6 +78,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/jadenblack/gradio
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -84,6 +89,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/jadenblack/gradio
   detection_source: Repo Metadata
 - name: Autoprefixer
   description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
@@ -93,6 +99,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/package.json
   detection_source: package.json
   last_updated_by: pngwn
   last_updated_on: 2023-01-28 09:47:14.000000000 Z
@@ -106,6 +113,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Ali Abid
   last_updated_on: 2021-12-24 08:18:09.000000000 Z
@@ -117,6 +125,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/Echocardiogram-Segmentation/requirements.txt
   detection_source: demo/Echocardiogram-Segmentation/requirements.txt
   last_updated_by: Ali Abdalla
   last_updated_on: 2022-10-14 21:07:26.000000000 Z
@@ -129,6 +138,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/_website/package.json
   detection_source: js/_website/package.json
   last_updated_by: Ali Abdalla
   last_updated_on: 2023-07-04 13:33:22.000000000 Z
@@ -141,6 +151,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/_website/package.json
   detection_source: js/_website/package.json
   last_updated_by: Ali Abdalla
   last_updated_on: 2023-07-04 13:33:22.000000000 Z
@@ -167,6 +178,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/preview/package.json
   detection_source: js/preview/package.json
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
@@ -179,6 +191,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/package.json
   detection_source: package.json
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
@@ -191,6 +204,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1172/stylus.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/preview/package.json
   detection_source: js/preview/package.json
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
@@ -203,6 +217,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/6113/7exmJEg4_400x400.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/package.json
   detection_source: package.json
   last_updated_by: pngwn
   last_updated_on: 2023-11-02 20:22:30.000000000 Z
@@ -215,6 +230,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/_website/package.json
   detection_source: js/_website/package.json
   last_updated_by: Ali Abdalla
   last_updated_on: 2023-07-04 13:33:22.000000000 Z
@@ -227,6 +243,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/1839/q5uAkmy7.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/chicago-bikeshare-dashboard/requirements.txt
   detection_source: demo/chicago-bikeshare-dashboard/requirements.txt
   last_updated_by: Freddy Boulton
   last_updated_on: 2022-11-16 20:42:24.000000000 Z
@@ -238,6 +255,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/client/python/pyproject.toml
   detection_source: client/python/pyproject.toml
   last_updated_by: Abubakar Abid
   last_updated_on: 2023-03-23 22:33:44.000000000 Z
@@ -250,6 +268,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/client/js/package.json
   detection_source: client/js/package.json
   last_updated_by: pngwn
   last_updated_on: 2023-03-07 16:36:25.000000000 Z
@@ -276,6 +295,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/package.json
   detection_source: package.json
   last_updated_by: pngwn
   last_updated_on: 2022-02-01 13:45:55.000000000 Z
@@ -288,6 +308,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/client/js/package.json
   detection_source: client/js/package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2023-08-08 16:43:34.000000000 Z
@@ -299,6 +320,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jadenblack/gradio
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -308,6 +330,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/.github/workflows/backend.yml
   detection_source: ".github/workflows/backend.yml"
   last_updated_by: pngwn
   last_updated_on: 2023-09-07 19:28:52.000000000 Z
@@ -321,6 +344,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/package.json
   detection_source: package.json
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
@@ -346,6 +370,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/test/requirements.txt
   detection_source: test/requirements.txt
   last_updated_by: Ömer Faruk Özdemir
   last_updated_on: 2022-01-24 14:33:01.000000000 Z
@@ -358,6 +383,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/preview/package.json
   detection_source: js/preview/package.json
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
@@ -370,6 +396,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/package.json
   detection_source: package.json
   last_updated_by: pngwn
   last_updated_on: 2022-02-01 13:45:55.000000000 Z
@@ -410,6 +437,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/package.json
   detection_source: package.json
   last_updated_by: pngwn
   last_updated_on: 2022-02-01 13:45:55.000000000 Z
@@ -435,6 +463,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/preview/package.json
   detection_source: js/preview/package.json
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
@@ -446,6 +475,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/color_generator/requirements.txt
   detection_source: demo/color_generator/requirements.txt
   last_updated_by: Ali Abdalla
   last_updated_on: 2022-10-14 21:07:26.000000000 Z
@@ -457,6 +487,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/animeganv2/requirements.txt
   detection_source: demo/animeganv2/requirements.txt
   last_updated_by: Ali Abdalla
   last_updated_on: 2022-09-15 15:24:10.000000000 Z
@@ -468,6 +499,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/1294/897180.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/test/requirements.txt
   detection_source: test/requirements.txt
   last_updated_by: Freddy Boulton
   last_updated_on: 2022-07-19 14:48:46.000000000 Z
@@ -479,6 +511,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Game Development
   image_url: https://img.stackshare.io/service/7348/jelqfJeI_200x200.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/model3D/package.json
   detection_source: js/model3D/package.json
   last_updated_by: Mehdi Bahri
   last_updated_on: 2023-08-30 00:02:05.000000000 Z
@@ -487,6 +520,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/18784/empty-logo-square.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/package.json
   detection_source: package.json
   last_updated_by: renovate[bot]
   last_updated_on: 2023-09-05 15:20:47.000000000 Z
@@ -499,6 +533,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/12683/2KMkheJx_400x400.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/loginbutton_component/requirements.txt
   detection_source: demo/loginbutton_component/requirements.txt
   last_updated_by: Ali Abdalla
   last_updated_on: 2023-08-30 18:06:52.000000000 Z
@@ -508,6 +543,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/.config/playwright/index.html
   detection_source: ".config/playwright/index.html"
   last_updated_by: Freddy Boulton
   last_updated_on: 2023-06-27 14:28:27.000000000 Z
@@ -519,6 +555,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Shells
   image_url: https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/test/requirements.txt
   detection_source: test/requirements.txt
   last_updated_by: Abubakar Abid
   last_updated_on: 2023-03-24 19:39:30.000000000 Z
@@ -530,6 +567,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/client/python/pyproject.toml
   detection_source: client/python/pyproject.toml
   last_updated_by: WilliamRoyNelson
   last_updated_on: 2023-06-05 22:46:35.000000000 Z
@@ -584,6 +622,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jadenblack/gradio
   detection_source: Repo Metadata
 - name: Sirv
   description: Revolutionary image hosting, optimization and delivery
@@ -591,6 +630,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7329/yZ2B2IF1_normal.jpg
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/package.json
   detection_source: package.json
   last_updated_by: pngwn
   last_updated_on: 2022-02-01 13:45:55.000000000 Z
@@ -603,6 +643,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/digit_classifier/requirements.txt
   detection_source: demo/digit_classifier/requirements.txt
   last_updated_by: aliabid94
   last_updated_on: 2021-12-14 06:02:19.000000000 Z
@@ -615,6 +656,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/Echocardiogram-Segmentation/requirements.txt
   detection_source: demo/Echocardiogram-Segmentation/requirements.txt
   last_updated_by: Ali Abdalla
   last_updated_on: 2023-06-14 14:39:12.000000000 Z
@@ -627,6 +669,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/_website/vercel.json
   detection_source: js/_website/vercel.json
   last_updated_by: Ali Abdalla
   last_updated_on: 2023-07-06 15:00:36.000000000 Z
@@ -646,6 +689,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6858/15455.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/dataframe/package.json
   detection_source: js/dataframe/package.json
   last_updated_by: Abubakar Abid
   last_updated_on: 2023-08-21 13:54:20.000000000 Z
@@ -658,6 +702,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20752/default_cf2c193a97e2b1ce404093ff2bc569ddeeeb005b.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/requirements-oauth.txt
   detection_source: requirements-oauth.txt
   last_updated_by: Lucain
   last_updated_on: 2023-08-10 19:12:40.000000000 Z
@@ -921,6 +966,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/client/python/requirements.txt
   detection_source: client/python/requirements.txt
   last_updated_by: Abubakar Abid
   last_updated_on: 2023-03-23 22:33:44.000000000 Z
@@ -933,6 +979,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20650/default_422cfa802834b2f78f74508cdc2c26b9544a79eb.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/stable-diffusion/requirements.txt
   detection_source: demo/stable-diffusion/requirements.txt
   last_updated_by: Ali Abdalla
   last_updated_on: 2022-09-15 15:24:10.000000000 Z
@@ -945,6 +992,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/animeganv2/requirements.txt
   detection_source: demo/animeganv2/requirements.txt
   last_updated_by: Ali Abdalla
   last_updated_on: 2022-09-15 15:24:10.000000000 Z
@@ -1053,6 +1101,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19989/default_b1f1fc9c4c59a78443018e01395203ba8c61dcde.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/requirements-oauth.txt
   detection_source: requirements-oauth.txt
   last_updated_by: Lucain
   last_updated_on: 2023-08-10 19:12:40.000000000 Z
@@ -1170,6 +1219,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20023/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/sentiment_analysis/requirements.txt
   detection_source: demo/sentiment_analysis/requirements.txt
   last_updated_by: aliabid94
   last_updated_on: 2021-12-14 06:02:19.000000000 Z
@@ -1196,6 +1246,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/color_generator/requirements.txt
   detection_source: demo/color_generator/requirements.txt
   last_updated_by: Ali Abdalla
   last_updated_on: 2022-10-14 21:07:26.000000000 Z
@@ -1292,6 +1343,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20062/default_7d86b2789b7e98a881e37db483c09c6a1aa3e995.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/blocks_multiple_event_triggers/requirements.txt
   detection_source: demo/blocks_multiple_event_triggers/requirements.txt
   last_updated_by: Freddy Boulton
   last_updated_on: 2022-11-02 21:47:53.000000000 Z
@@ -1332,6 +1384,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20416/default_64aa60b33468d1d28611966765867676f6303b64.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/chicago-bikeshare-dashboard/requirements.txt
   detection_source: demo/chicago-bikeshare-dashboard/requirements.txt
   last_updated_by: Freddy Boulton
   last_updated_on: 2022-11-04 20:31:08.000000000 Z
@@ -1568,6 +1621,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20269/default_ac8229927eda3d44316aa5b5d6704388a231bb77.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
@@ -1608,6 +1662,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20263/default_1842575018db691e6f93d8a9a1aa65cdc2a55c20.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/text_analysis/requirements.txt
   detection_source: demo/text_analysis/requirements.txt
   last_updated_by: aliabid94
   last_updated_on: 2021-12-14 06:02:19.000000000 Z
@@ -1778,6 +1833,20 @@ tools:
   detection_source: test/requirements.txt
   last_updated_by: Ömer Faruk Özdemir
   last_updated_on: 2022-01-24 14:33:01.000000000 Z
+- name: websockets
+  description: An implementation of the WebSocket Protocol
+  package_url: https://pypi.org/project/websockets
+  version: '10.0'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19951/default_fbe690a687f1af7dc36ac3d526708be3294c4cc9.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/client/python/requirements.txt
+  detection_source: client/python/requirements.txt
+  last_updated_by: Abubakar Abid
+  last_updated_on: 2023-07-13 01:03:53.000000000 Z
 - name: wget
   description: Pure python download utility
   package_url: https://pypi.org/project/wget
@@ -1787,6 +1856,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/demo/Echocardiogram-Segmentation/requirements.txt
   detection_source: demo/Echocardiogram-Segmentation/requirements.txt
   last_updated_by: Ali Abdalla
   last_updated_on: 2022-10-14 21:07:26.000000000 Z
@@ -1944,6 +2014,20 @@ tools:
   detection_source: js/app/package.json
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
+- name: katex
+  description: Fast math typesetting for the web
+  package_url: https://www.npmjs.com/katex
+  version: 0.16.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18250/default_c6b51515d4a1dde78342d80e969e295cabf381ac.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/js/dataframe/package.json
+  detection_source: js/dataframe/package.json
+  last_updated_by: Abubakar Abid
+  last_updated_on: 2023-08-21 13:54:20.000000000 Z
 - name: marked
   description: A markdown parser built for speed
   package_url: https://www.npmjs.com/marked
@@ -1995,6 +2079,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17539/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/jadenblack/gradio/blob/main/package.json
   detection_source: package.json
   last_updated_by: pngwn
   last_updated_on: 2023-08-03 22:01:18.000000000 Z
