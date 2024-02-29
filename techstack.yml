@@ -2,7 +2,7 @@ repo_name: jadenblack/gradio
 report_id: d8376089762ff9a85d924b9703f92777
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:23:28+00:00'
+timestamp: '2024-02-29T19:04:29+00:00'
 requested_by: pngwn
 provider: github
 branch: main
@@ -349,7 +349,7 @@ tools:
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 3.0.0
   license: MIT
@@ -504,7 +504,7 @@ tools:
   last_updated_by: Freddy Boulton
   last_updated_on: 2022-07-19 14:48:46.000000000 Z
 - name: BabylonJS
-  description: 'A real time 3D engine '
+  description: A real time 3D engine
   website_url: https://www.babylonjs.com/
   open_source: true
   hosted_saas: false
@@ -525,7 +525,7 @@ tools:
   last_updated_by: renovate[bot]
   last_updated_on: 2023-09-05 15:20:47.000000000 Z
 - name: Gradio
-  description: 'GUIs for Faster ML Prototyping and Sharing '
+  description: GUIs for Faster ML Prototyping and Sharing
   website_url: https://www.gradio.app/
   license: Apache-2.0
   open_source: true
@@ -1680,6 +1680,19 @@ tools:
   detection_source: test/requirements.txt
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
+  vulnerabilities:
+  - name: python-multipart vulnerable to Content-Type Header ReDoS
+    cve_id: CVE-2024-24762
+    cve_url: https://github.com/advisories/GHSA-2jv5-9r88-3w3p
+    detected_date: Feb 17
+    severity: high
+    first_patched: 0.36.2
+  - name: 'Duplicate Advisory: Starlette Content-Type Header ReDoS'
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-93gm-qmq6-w238
+    detected_date: Feb 6
+    severity: high
+    first_patched: 0.36.2
 - name: tifffile
   description: Read and write TIFF
   package_url: https://pypi.org/project/tifffile
@@ -2194,6 +2207,14 @@ tools:
   detection_source: package.json
   last_updated_by: pngwn
   last_updated_on: 2023-10-31 04:46:02.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 4.5.2
 - name: which
   description: Like which
   package_url: https://www.npmjs.com/which
