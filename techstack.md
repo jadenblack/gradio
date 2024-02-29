@@ -3,52 +3,52 @@
 ## Tech Stack
 jadenblack/gradio is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- [Stylus](http://stylus-lang.com/) – CSS Pre-processors / Extensions
-- [Pug](https://pugjs.org) – Templating Languages & Extensions
 - [CoffeeScript](http://coffeescript.org/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [OpenCV](http://opencv.org/) – Image Processing and Management
-- [scikit-image](http://scikit-image.org/) – Image Processing and Management
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- [NumPy](http://www.numpy.org/) – Data Science Tools
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- [CodeMirror](http://codemirror.net/) – Text Editor
+- [Pug](https://pugjs.org) – Templating Languages & Extensions
+- [Python](https://www.python.org) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
 - [Matplotlib](http://matplotlib.org) – Charting Libraries
-- [SciPy](http://www.scipy.org) – Data Science Tools
-- [ESLint](http://eslint.org/) – Code Review
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
-- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- [Torch](http://torch.ch/) – Machine Learning Tools
-- [IPython](http://ipython.org/index.html) – Shells
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- [Svelte](https://svelte.technology/) – Javascript UI Libraries
-- [Prettier](https://prettier.io/) – Code Review
-- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- [BabylonJS](https://www.babylonjs.com/) – Game Development
-- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
-- [Sucrase](https://sucrase.io/) – JavaScript Compilers
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [Storybook](https://storybook.js.org/) – JavaScript Framework Components
-- [XGBoost](https://xgboost.ai/) – Python Build Tools
-- [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- [Stylus](http://stylus-lang.com/) – CSS Pre-processors / Extensions
+- [Svelte](https://svelte.technology/) – Javascript UI Libraries
+- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
+- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 - [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- [CodeMirror](http://codemirror.net/) – Text Editor
+- [ESLint](http://eslint.org/) – Code Review
+- [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Playwright](https://github.com/microsoft/playwright) – Browser Testing
-- [Gradio](https://www.gradio.app/) – Machine Learning Tools
+- [Prettier](https://prettier.io/) – Code Review
+- [Sucrase](https://sucrase.io/) – JavaScript Compilers
 - [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
-- [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
-- [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- [XGBoost](https://xgboost.ai/) – Python Build Tools
+- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [OpenCV](http://opencv.org/) – Image Processing and Management
+- [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- [scikit-image](http://scikit-image.org/) – Image Processing and Management
+- [BabylonJS](https://www.babylonjs.com/) – Game Development
+- [Gradio](https://www.gradio.app/) – Machine Learning Tools
+- [IPython](http://ipython.org/index.html) – Shells
 - [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- [SciPy](http://www.scipy.org) – Data Science Tools
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
+- [Torch](http://torch.ch/) – Machine Learning Tools
 - [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
-- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -58,52 +58,52 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 jadenblack/gradio is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1172/stylus.png' alt='Stylus'/> [Stylus](http://stylus-lang.com/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1175/pug.png' alt='Pug'/> [Pug](https://pugjs.org) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1293/opencv-logo-64x64.png' alt='OpenCV'/> [OpenCV](http://opencv.org/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/1294/897180.png' alt='scikit-image'/> [scikit-image](http://scikit-image.org/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2490/E_fCaAi6.png' alt='CodeMirror'/> [CodeMirror](http://codemirror.net/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/1175/pug.png' alt='Pug'/> [Pug](https://pugjs.org) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png' alt='FastAPI'/> [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg' alt='Matplotlib'/> [Matplotlib](http://matplotlib.org) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png' alt='Torch'/> [Torch](http://torch.ch/) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/6113/7exmJEg4_400x400.png' alt='Svelte'/> [Svelte](https://svelte.technology/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/7348/jelqfJeI_200x200.png' alt='BabylonJS'/> [BabylonJS](https://www.babylonjs.com/) – Game Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Sucrase'/> [Sucrase](https://sucrase.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/9240/sOct-Txm_400x400.png' alt='Storybook'/> [Storybook](https://storybook.js.org/) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/9899/xgboost400.png' alt='XGBoost'/> [XGBoost](https://xgboost.ai/) – Python Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1172/stylus.png' alt='Stylus'/> [Stylus](http://stylus-lang.com/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/6113/7exmJEg4_400x400.png' alt='Svelte'/> [Svelte](https://svelte.technology/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/2490/E_fCaAi6.png' alt='CodeMirror'/> [CodeMirror](http://codemirror.net/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'/> [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/11955/default_48baa40615243f437bc3b182e62ddfe0290fca4b.png' alt='Playwright'/> [Playwright](https://github.com/microsoft/playwright) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/12683/2KMkheJx_400x400.png' alt='Gradio'/> [Gradio](https://www.gradio.app/) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Sucrase'/> [Sucrase](https://sucrase.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png' alt='FastAPI'/> [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png' alt='Esbuild'/> [Esbuild](https://esbuild.github.io/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/9899/xgboost400.png' alt='XGBoost'/> [XGBoost](https://xgboost.ai/) – Python Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1293/opencv-logo-64x64.png' alt='OpenCV'/> [OpenCV](http://opencv.org/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/1294/897180.png' alt='scikit-image'/> [scikit-image](http://scikit-image.org/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/7348/jelqfJeI_200x200.png' alt='BabylonJS'/> [BabylonJS](https://www.babylonjs.com/) – Game Development
+- <img width='25' height='25' src='https://img.stackshare.io/service/12683/2KMkheJx_400x400.png' alt='Gradio'/> [Gradio](https://www.gradio.app/) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png' alt='IPython'/> [IPython](http://ipython.org/index.html) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3303/scipyshiny_small.png' alt='SciPy'/> [SciPy](http://www.scipy.org) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png' alt='Torch'/> [Torch](http://torch.ch/) – Machine Learning Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -114,7 +114,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/gradio](https://github.com/jadenblack/gradio)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|161<br/>Tools used|01/05/24 <br/>Report generated|
+|161<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -669,7 +669,7 @@ Full tech stack [here](/techstack.md)
 |[shap](https://pypi.org/project/shap)|v0.41.0|09/15/22|Ali Abdalla |MIT|N/A|
 |[six](https://pypi.org/project/six)|v1.16.0|01/24/22|Ömer Faruk Özdemir |MIT|N/A|
 |[spacy](https://pypi.org/project/spacy)|N/A|12/14/21|aliabid94 |MIT|N/A|
-|[starlette](https://pypi.org/project/starlette)|v0.27.0|10/31/23|pngwn |BSD-3-Clause|N/A|
+|[starlette](https://pypi.org/project/starlette)|v0.27.0|10/31/23|pngwn |BSD-3-Clause|[CVE-2024-24762](https://github.com/advisories/GHSA-2jv5-9r88-3w3p) (High)<br/>[](https://github.com/advisories/GHSA-93gm-qmq6-w238) (High)|
 |[tifffile](https://pypi.org/project/tifffile)|v2021.11.2|03/24/23|Abubakar Abid |BSD-3-Clause|N/A|
 |[tomli](https://pypi.org/project/tomli)|v2.0.1|07/19/22|Freddy Boulton |N/A|N/A|
 |[tomlkit](https://pypi.org/project/tomlkit)|v0.12.0|10/31/23|pngwn |MIT|N/A|
@@ -711,7 +711,7 @@ Full tech stack [here](/techstack.md)
 |[sugarss](https://www.npmjs.com/sugarss)|v4.0.1|10/31/23|pngwn |MIT|N/A|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.1.6|07/04/23|Ali Abdalla |MIT|N/A|
 |[tslib](https://www.npmjs.com/tslib)|v2.6.2|07/04/23|Ali Abdalla |0BSD|N/A|
-|[vite](https://www.npmjs.com/vite)|v4.3.9|10/31/23|pngwn |N/A|N/A|
+|[vite](https://www.npmjs.com/vite)|v4.3.9|10/31/23|pngwn |N/A|[CVE-2024-23331](https://github.com/advisories/GHSA-c24v-8rfc-w8vw) (High)|
 |[which](https://www.npmjs.com/which)|v4.0.0|10/31/23|pngwn |ISC|N/A|
 
 <br/>
