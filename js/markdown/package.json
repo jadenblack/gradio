@@ -24,6 +24,6 @@
 		"katex": "^0.16.7",
 		"marked": "^7.0.0",
 		"marked-highlight": "^2.0.1",
-		"prismjs": "1.29.0"
+		"prismjs": "1.30.0"
 	}
 }
