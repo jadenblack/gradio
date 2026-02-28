@@ -15,11 +15,11 @@
 	"dependencies": {
 		"bufferutil": "^4.0.7",
 		"semiver": "^1.1.0",
-		"ws": "^8.13.0"
+		"ws": "^8.17.1"
 	},
 	"devDependencies": {
 		"@types/ws": "^8.5.4",
-		"esbuild": "^0.19.0"
+		"esbuild": "^0.25.0"
 	},
 	"scripts": {
 		"bundle": "vite build --ssr",
